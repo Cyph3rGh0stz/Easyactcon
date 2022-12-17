@@ -5,3 +5,4 @@ read -p 'nmaptarget: ' nmaptarget
 
 #Nmap scan
 sudo nmap -sC -sV $nmaptarget
+
